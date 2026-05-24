@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 22cd3945bb31c7241966376c5442d890
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3740163907684453838
+    second: i-edited-free (carve.photos)_0
+  - first:
+      213: 3858961332946826735
+    second: i-edited-free (carve.photos)_1
+  - first:
+      213: -3452561496689452452
+    second: i-edited-free (carve.photos)_2
+  - first:
+      213: 8056220476810247509
+    second: i-edited-free (carve.photos)_3
+  - first:
+      213: 8308753896832359795
+    second: i-edited-free (carve.photos)_4
+  - first:
+      213: 5450272587447508247
+    second: i-edited-free (carve.photos)_5
+  - first:
+      213: 4455157644402073565
+    second: i-edited-free (carve.photos)_6
+  - first:
+      213: -2860593310686220300
+    second: i-edited-free (carve.photos)_7
+  - first:
+      213: 8741207315501934446
+    second: i-edited-free (carve.photos)_8
+  - first:
+      213: 7559102688270575931
+    second: i-edited-free (carve.photos)_9
+  - first:
+      213: 7123206325667291762
+    second: i-edited-free (carve.photos)_10
+  - first:
+      213: -4549789588464675255
+    second: i-edited-free (carve.photos)_11
+  - first:
+      213: -6900165194848656336
+    second: i-edited-free (carve.photos)_12
+  - first:
+      213: 7060910205893985958
+    second: i-edited-free (carve.photos)_13
+  - first:
+      213: 2473511853832932873
+    second: i-edited-free (carve.photos)_14
+  - first:
+      213: 564448484107642155
+    second: i-edited-free (carve.photos)_15
+  - first:
+      213: 7128757318155942067
+    second: i-edited-free (carve.photos)_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: i-edited-free (carve.photos)_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 193
+        width: 85
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff60bd3a812d48d0800000000000000
+      internalID: -2860593310686220300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i-edited-free (carve.photos)_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 163
+        width: 85
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e9849db10f4970800000000000000
+      internalID: 8741207315501934446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc500d25d1782cb48b59a9efea07a43e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      i-edited-free (carve.photos)_0: -3740163907684453838
+      i-edited-free (carve.photos)_1: 3858961332946826735
+      i-edited-free (carve.photos)_10: 7123206325667291762
+      i-edited-free (carve.photos)_11: -4549789588464675255
+      i-edited-free (carve.photos)_12: -6900165194848656336
+      i-edited-free (carve.photos)_13: 7060910205893985958
+      i-edited-free (carve.photos)_14: 2473511853832932873
+      i-edited-free (carve.photos)_15: 564448484107642155
+      i-edited-free (carve.photos)_16: 7128757318155942067
+      i-edited-free (carve.photos)_2: -3452561496689452452
+      i-edited-free (carve.photos)_3: 8056220476810247509
+      i-edited-free (carve.photos)_4: 8308753896832359795
+      i-edited-free (carve.photos)_5: 5450272587447508247
+      i-edited-free (carve.photos)_6: 4455157644402073565
+      i-edited-free (carve.photos)_7: -2860593310686220300
+      i-edited-free (carve.photos)_8: 8741207315501934446
+      i-edited-free (carve.photos)_9: 7559102688270575931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
